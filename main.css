@@ -146,6 +146,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m04 .container .mockup figure .portfolio03 {height:200px;border-radius:0;overflow:hidden;}
     .m04 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m04 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
+    .m04 .txt p a {cursor:pointer;}
     .m04 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m04 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
     .m04 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
@@ -250,8 +251,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m07 .slick-dots button {display:none;}
 
 .m07 i {position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);font-size:60px;color:#999;}
-.m07 i.xi-angle-left-thin {margin-left:-800px;} 
-.m07 i.xi-angle-right-thin {margin-left:800px;} 
+.m07 i.xi-angle-left-thin {margin-left:-770px;} 
+.m07 i.xi-angle-right-thin {margin-left:770px;} 
 
 
 
