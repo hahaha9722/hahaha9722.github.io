@@ -34,7 +34,6 @@ $("#portfolio01").YTPlayer({
     anchor: 'center,center',
     //ratio: '2/3',
     optimizeDisplay:false,
-    startAt: 50,
 });
 
 $(".m02 .xi-play").on("click", function(){
