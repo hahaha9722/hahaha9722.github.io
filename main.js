@@ -25,15 +25,16 @@ $("#intro").YTPlayer({
 
 //포폴동영상제어
 $("#portfolio01").YTPlayer({
-    containment:'.portfolio01',
-    autoPlay:true,
-    mute:true,
+    containment: '.portfolio01',
+    autoPlay: true,
+    mute: true,
     showControls: false,
     playOnlyIfVisible: true,
     //realfullscreen: true,
     anchor: 'center,center',
     //ratio: '2/3',
     optimizeDisplay:false,
+    startAt: 50,
 });
 
 $(".m02 .xi-play").on("click", function(){
