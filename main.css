@@ -68,6 +68,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m02 .container .mockup figure .portfolio01 {height:360px;border-radius:10px;overflow:hidden;}
 .m02 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m02 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
+.m02 .txt p a {cursor:pointer;color:darkblue;}
 .m02 .txt ul {line-height:1.4;margin-bottom:30px;}
 .m02 .txt i {font-size:30px;color:#fff;background:#333;padding:10px;border-radius:10px;margin-right:15px;}
 .m02 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
@@ -83,7 +84,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m02 .container .mockup figure .portfolio01 {height:200px;border-radius:0;overflow:hidden;}
     .m02 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m02 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
-    .m02 .txt p a {cursor:pointer;}
+    .m02 .txt p a {cursor:pointer;color:darkblue;}
     .m02 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m02 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
     .m02 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
@@ -131,6 +132,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m04 .container .mockup figure .portfolio03 {height:360px;border-radius:10px;overflow:hidden;}
 .m04 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m04 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
+.m04 .txt p a {cursor: pointer;color:darkblue;}
 .m04 .txt ul {line-height:1.4;margin-bottom:30px;}
 .m04 .txt i {font-size:30px;color:#fff;background:#333;padding:10px;border-radius:10px;margin-right:15px;}
 .m04 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
@@ -146,7 +148,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m04 .container .mockup figure .portfolio03 {height:200px;border-radius:0;overflow:hidden;}
     .m04 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m04 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
-    .m04 .txt p a {cursor:pointer;}
+    .m04 .txt p a {cursor: pointer;color:darkblue;}
     .m04 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m04 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
     .m04 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
@@ -215,8 +217,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m06 .container .mockup {flex:1;}
     .m06 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m06 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m06 .container .mockup figure .web {height:200px;border-radius:0;overflow:hidden;}
-    .m06 .container .mockup figure iframe {height:200px;}
+    .m06 .container .mockup figure .web {height:198px;border-radius:0;overflow:hidden;}
+    .m06 .container .mockup figure iframe {height:198px;}
 
     .m06 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m06 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
@@ -258,10 +260,10 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 @media (max-width:768px) {
     .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg01.png);}
-    .m07 .photo_slider {width:auto;margin:0 30px;}
-    .m07 .photo_slider figure {padding:0 30px;}
-    .m07 .photo_slider figure iframe {height:200px;}
-    .m07 .photo_slider img {width:100%;border-radius:10px;border:3px solid #ddd;}
+    .m07 .photo_slider {width:auto;margin:0 0;}
+    .m07 .photo_slider figure {text-align:center;padding:0 30px 0 30px;}
+    .m07 .photo_slider figure iframe {width:354px;height:198px;}
+
     
     /* .m08 .slick-dots {display:flex;justify-content:center;margin-top:30px;}
     .m08 .slick-dots li {width:15px;height:15px;background:#333;border-radius:50%;margin:0 4px;transition:0.5s;}
@@ -275,7 +277,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m07 .slick-dots li.slick-active:after {width:100%;transition:2s;}
     .m07 .slick-dots button {display:none;}
     
-    .m07 i {position:absolute;top:50%;left:auto;transform:translate(0, -50%);font-size:30px;color:#fff;background:#333;padding:10px;}
+    .m07 i {display:none;position:absolute;top:50%;left:auto;transform:translate(0, -50%);font-size:30px;color:#fff;background:#333;padding:10px;}
     .m07 i.xi-angle-left-thin {margin-left:0;left:0} 
     .m07 i.xi-angle-right-thin {margin-left:0;right:0;} 
 }
@@ -333,6 +335,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m09 .container figure img {width:100%;cursor:pointer;}
 .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
 .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
+.m09 .container i {padding:0 10px 0 0;}
 
 
 @media (max-width:768px) {
@@ -340,8 +343,9 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m09 .container {display:flex;flex-direction:column;justify-content:space-between;width:auto;margin:0 auto;}
     .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #666;margin:30px auto;}
     .m09 .container figure img {width:100%;cursor:pointer;}
-    .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:0px;font-family: 'Allison', cursive;}
+    .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
     .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
+    .m09 .container i {padding:0 5px 0 0;}
 }
 
 
