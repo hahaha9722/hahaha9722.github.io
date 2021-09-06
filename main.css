@@ -117,7 +117,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m03 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m03 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m03 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
-    .m03 .txt .spec {margin-left:auto;}
+    .m03 .txt .spec {padding:0 0;}
     .m03 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
     .m03 .info {line-height:1.6;}
 }
@@ -183,7 +183,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m05 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m05 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m05 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
-    .m05 .txt .spec {margin-left:auto;}
+    .m05 .txt .spec {padding:0 0;}
     .m05 .txt strong {display:inline-block;width:10px;font-weight:700;text-transform:uppercase;}
     .m05 .info {line-height:1.6;}
 }
@@ -384,14 +384,14 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     #full .container {display:flex;flex-direction:column;width:auto;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:100%;}
     
     #full .container>* {padding:0 30px;}
-    #full .container img {width:120px;border-radius:50%;border:3px solid #666;margin-bottom:10px;}
+    #full .container img {width:120px;border-radius:50%;border:3px solid #666;margin-bottom:15px;}
     #full .b_profile {display:flex;align-items:center;}
     
-    #full .b_profile h2 {font-size:36px;font-weight:300;margin-bottom:15px;font-family: 'Allison', cursive;}
-    #full .b_profile p {font-size:12px;font-weight:100;line-height:1.2;margin-bottom:10px;}
+    #full .b_profile h2 {font-size:36px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
+    #full .b_profile p {font-size:12px;font-weight:100;line-height:1.4;margin-bottom:10px;}
     #full .b_profile p strong {font-size:12px;font-weight:700;}
     
-    #full .b_profile li {font-size:14px;line-height:20px;transition:0.3s;}
+    #full .b_profile li {font-size:12px;line-height:20px;transition:0.3s;}
     
     #full .b_profile li:before {content:"\e9b2";font-family: xeicon!important;margin-right:10px;transition:0.3s;}
     #full .b_profile li:hover:before {content:"\e9b1";font-family: xeicon!important;margin-right:20px;}
