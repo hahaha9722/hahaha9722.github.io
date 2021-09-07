@@ -60,7 +60,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 }
 
 
-.m02 {background:url(./assets/img/bg02.png);}
+.m02 {background:url(./assets/img/bg06.png);}
 .m02 .container {display:flex;width:1600px;margin:0 auto;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
@@ -76,7 +76,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m02 {background:url(./assets/img/bg02.png);}
+    .m02 {background:url(./assets/img/bg06.png);}
     .m02 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -91,7 +91,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m02 .info {line-height:1.6;}
 }
 
-.m03 {background:#f7f7f7 url(./assets/img/bg01.png);}
+.m03 {background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
 .m03 .container {display:flex;width:1600px;margin:0 auto;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
@@ -107,7 +107,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m03 {background:#f7f7f7 url(./assets/img/bg01.png);}
+    .m03 {background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
     .m03 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -124,7 +124,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m04 {background:url(./assets/img/bg02.png);}
+.m04 {background:url(./assets/img/bg06.png);}
 .m04 .container {display:flex;width:1600px;margin:0 auto;}
 .m04 .container .mockup {flex:9;}
 .m04 .container .txt {flex:7;display:flex;align-items: center;}
@@ -140,7 +140,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m04 {background:url(./assets/img/bg02.png);}
+    .m04 {background:url(./assets/img/bg06.png);}
     .m04 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m04 .container .mockup {flex:1;}
     .m04 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -156,7 +156,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 }
 
 
-.m05 {background:#f7f7f7 url(./assets/img/bg01.png);}
+.m05 {background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
 .m05 .container {display:flex;width:1600px;margin:0 auto;}
 .m05 .container .mockup {flex:9;}
 .m05 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
@@ -173,7 +173,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m05 {background:#f7f7f7 url(./assets/img/bg01.png);}
+    .m05 {background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
     .m05 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m05 .container .mockup {flex:1;}
     .m05 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -190,7 +190,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m06 {background:url(./assets/img/bg02.png);}
+.m06 {background:url(./assets/img/bg06.png);}
 .m06 .container {display:flex;width:1600px;margin:0 auto;}
 .m06 .container .mockup {flex:9;}
 .m06 .container .txt {flex:7;display:flex;align-items: center;}
@@ -212,7 +212,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m06 {background:url(./assets/img/bg02.png);}
+    .m06 {background:url(./assets/img/bg06.png);}
     .m06 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m06 .container .mockup {flex:1;}
     .m06 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -235,7 +235,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m07 {position: relative;background:#f7f7f7 url(./assets/img/bg01.png);}
+.m07 {position: relative;background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
 .m07 .photo_slider {width:1400px;margin:0 auto;}
 .m07 .photo_slider figure {padding:0 15px;}
 .m07 .photo_slider img {width:100%;border-radius:50px;}
@@ -259,7 +259,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg01.png);}
+    .m07 {position: relative;background:rgb(255, 254, 245) url(./assets/img/bg05.png);}
     .m07 .photo_slider {width:auto;margin:0 0;}
     .m07 .photo_slider figure {text-align:center;padding:0 30px 0 30px;}
     .m07 .photo_slider figure iframe {width:354px;height:198px;}
@@ -284,7 +284,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m08 {background:url(./assets/img/bg02.png);}
+.m08 {background:url(./assets/img/bg06.png);}
 .m08 .container {display:flex;width:1600px;margin:0 auto;}
 .m08 .container .mockup {flex:9;}
 .m08 .container .txt {flex:7;display:flex;align-items: center;}
@@ -306,7 +306,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m08 {background:url(./assets/img/bg02.png);}
+    .m08 {background:url(./assets/img/bg06.png);}
     .m08 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m08 .container .mockup {flex:1;}
     .m08 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -329,9 +329,9 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m09 {position: relative;background:#f7f7f7 url(./assets/img/bg01.png);padding:50px 0;}
+.m09 {position: relative;background:#f7f7f7 url(./assets/img/bg08.png);padding:50px 0;}
 .m09 .container {display:flex;justify-content:space-between;width:1400px;margin:0 auto;}
-.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #999;}
+.m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #372853;}
 .m09 .container figure img {width:100%;cursor:pointer;}
 .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
 .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
@@ -339,9 +339,9 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m09 {position: relative;background:#f7f7f7 url(./assets/img/bg01.png);padding:50px 0;text-align:center;}
+    .m09 {position: relative;background:#f7f7f7 url(./assets/img/bg08.png);padding:50px 0;text-align:center;}
     .m09 .container {display:flex;flex-direction:column;justify-content:space-between;width:auto;margin:0 auto;}
-    .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #666;margin:30px auto;}
+    .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #372853;margin:30px auto;}
     .m09 .container figure img {width:100%;cursor:pointer;}
     .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
     .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
@@ -355,7 +355,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 #full .container {display:flex;width:1300px;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);}
 
 #full .container>* {padding:0 30px;}
-#full .container img {border-radius:50%;}
+#full .container img {border-radius:50%;border:3px solid #372853;}
 #full .b_profile {display:flex;align-items:center;}
 
 #full .b_profile h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
@@ -384,7 +384,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     #full .container {display:flex;flex-direction:column;width:auto;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:100%;}
     
     #full .container>* {padding:0 30px;}
-    #full .container img {width:120px;border-radius:50%;border:3px solid #666;margin-bottom:15px;}
+    #full .container img {width:120px;border-radius:50%;border:3px solid #372853;margin-bottom:15px;}
     #full .b_profile {display:flex;align-items:center;}
     
     #full .b_profile h2 {font-size:36px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
