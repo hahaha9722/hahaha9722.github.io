@@ -128,12 +128,12 @@ $(".photo_slider").slick({
 });
 
 
-$(".m08 i.xi-angle-left-thin").on("click", function(){
+$(".m07 i.xi-angle-left-thin").on("click", function(){
     $(".photo_slider").slick("slickPrev");
 });
 
 
-$(".m08 i.xi-angle-right-thin").on("click", function(){
+$(".m07 i.xi-angle-right-thin").on("click", function(){
     $(".photo_slider").slick("slickNext");
 });
 
