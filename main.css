@@ -60,7 +60,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 }
 
 
-.m02 {background:url(./assets/img/bg02.png);}
+.m02 {background:url(./assets/img/bg_001.jpg);}
 .m02 .container {display:flex;width:1600px;margin:0 auto;}
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
@@ -76,7 +76,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m02 {background:url(./assets/img/bg02.png);}
+    .m02 {background:url(./assets/img/bg_0001.jpg);}
     .m02 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -91,7 +91,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m02 .info {line-height:1.6;}
 }
 
-.m03 {background:#f7f7f7 url(./assets/img/bg08.png);}
+.m03 {background:#f7f7f7 url(./assets/img/bg_002.jpg);}
 .m03 .container {display:flex;width:1600px;margin:0 auto;}
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
@@ -107,7 +107,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m03 {background:#f7f7f7 url(./assets/img/bg08.png);}
+    .m03 {background:#f7f7f7 url(./assets/img/bg_0002.jpg);}
     .m03 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -124,7 +124,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m04 {background:url(./assets/img/bg02.png);}
+.m04 {background:url(./assets/img/bg_003.jpg);}
 .m04 .container {display:flex;width:1600px;margin:0 auto;}
 .m04 .container .mockup {flex:9;}
 .m04 .container .txt {flex:7;display:flex;align-items: center;}
@@ -140,7 +140,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m04 {background:url(./assets/img/bg02.png);}
+    .m04 {background:url(./assets/img/bg_0003.jpg);}
     .m04 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m04 .container .mockup {flex:1;}
     .m04 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -156,7 +156,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 }
 
 
-.m05 {background:#f7f7f7 url(./assets/img/bg08.png);}
+.m05 {background:#f7f7f7 url(./assets/img/bg_004.jpg);}
 .m05 .container {display:flex;width:1600px;margin:0 auto;}
 .m05 .container .mockup {flex:9;}
 .m05 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
@@ -173,7 +173,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m05 {background:#f7f7f7 url(./assets/img/bg08.png);}
+    .m05 {background:#f7f7f7 url(./assets/img/bg_0004.jpg);}
     .m05 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m05 .container .mockup {flex:1;}
     .m05 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -190,7 +190,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m06 {background:url(./assets/img/bg02.png);}
+.m06 {background:url(./assets/img/bg_001.jpg);}
 .m06 .container {display:flex;width:1600px;margin:0 auto;}
 .m06 .container .mockup {flex:9;}
 .m06 .container .txt {flex:7;display:flex;align-items: center;}
@@ -212,7 +212,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m06 {background:url(./assets/img/bg02.png);}
+    .m06 {background:url(./assets/img/bg_0001.jpg);}
     .m06 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m06 .container .mockup {flex:1;}
     .m06 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -235,7 +235,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m07 {position: relative;background:#f7f7f7 url(./assets/img/bg08.png);}
+.m07 {position: relative;background:#f7f7f7 url(./assets/img/bg_002.jpg);}
 .m07 .photo_slider {width:1400px;margin:0 auto;}
 .m07 .photo_slider figure {padding:0 15px;}
 .m07 .photo_slider img {width:100%;border-radius:50px;}
@@ -259,7 +259,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg08.png);}
+    .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg_0002.jpg);}
     .m07 .photo_slider {width:auto;margin:0 0;}
     .m07 .photo_slider figure {text-align:center;padding:0 30px 0 30px;}
     .m07 .photo_slider figure iframe {width:354px;height:198px;}
@@ -284,7 +284,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-.m08 {background:url(./assets/img/bg02.png);}
+.m08 {background:url(./assets/img/bg_005.jpg);}
 .m08 .container {display:flex;width:1600px;margin:0 auto;}
 .m08 .container .mockup {flex:9;}
 .m08 .container .txt {flex:7;display:flex;align-items: center;}
@@ -306,7 +306,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 @media (max-width:768px) {
-    .m08 {background:url(./assets/img/bg02.png);}
+    .m08 {background:url(./assets/img/bg_0005.jpg);}
     .m08 .container {display:flex;flex-direction:column;width:auto;margin:0 auto;}
     .m08 .container .mockup {flex:1;}
     .m08 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
@@ -351,7 +351,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 
 
-#full {position:fixed;top:0;left:0;width:100%;height:0;overflow:hidden;background:#f7f7f7 url(./assets/img/bg02.png);transition:0.3s;z-index:1000;}
+#full {position:fixed;top:0;left:0;width:100%;height:0;overflow:hidden;background:#f7f7f7 url(./assets/img/bg02.png);;transition:0.3s;z-index:1000;}
 #full .container {display:flex;width:1300px;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);}
 
 #full .container>* {padding:0 30px;}
