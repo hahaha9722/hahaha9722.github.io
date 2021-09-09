@@ -23,13 +23,13 @@ $(".main_slider").on("afterChange", function(e,s,c){
 });
 
 
-$("#con03 .xi-pause").on("click", function(){
-    $("#con03 video").trigger("pause");
-});
+// $("#con03 .xi-pause").on("click", function(){
+//     $("#con03 video").trigger("pause");
+// });
 
-$("#con03 .xi-play").on("click", function(){
-    $("#con03 video").trigger("play");
-});
+// $("#con03 .xi-play").on("click", function(){
+//     $("#con03 video").trigger("play");
+// });
 
 
 $("#bgndVideo").YTPlayer({

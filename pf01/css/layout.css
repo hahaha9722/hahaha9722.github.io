@@ -173,7 +173,7 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 #con03 .container .txt h2 {text-align:inherit;font-size:30px;font-weight:700;margin-bottom:20px;}
 #con03 .container .txt p {text-align:inherit;font-size:14px;font-weight:300;margin-bottom:30px;line-height:1.4;}
 
-#con03 .container .txt i {font-size:24px;color:#fff;background:#333;border-radius:50%;padding:10px;}
+#con03 .container .txt i {font-size:60px;color:#f00;}
 
 
 @media (max-width:768px) {
