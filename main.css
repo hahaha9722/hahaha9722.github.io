@@ -65,7 +65,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m02 .container .mockup {flex:9;}
 .m02 .container .txt {flex:7;display:flex;align-items: center;}
 .m02 .container .mockup figure {background:url(./assets/img/tv04.png) no-repeat;height:600px;padding:138px 130px 0 130px;}
-.m02 .container .mockup figure .portfolio01 {height:360px;border-radius:10px;overflow:hidden;}
+.m02 .container .mockup figure .portfolio01 {padding-bottom:56.25%;border-radius:10px;overflow:hidden;}
 .m02 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m02 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m02 .txt p a {cursor:pointer;color:darkblue;}
@@ -81,7 +81,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m02 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m02 .container .mockup figure .portfolio01 {height:177px;border-radius:0;overflow:hidden;}
+    .m02 .container .mockup figure .portfolio01 {padding-bottom:56.25%;border-radius:0;overflow:hidden;}
     .m02 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m02 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m02 .txt p a {cursor:pointer;color:darkblue;}
@@ -96,7 +96,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m03 .container .mockup {flex:9;}
 .m03 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
 .m03 .container .mockup figure {background:url(./assets/img/tv04.png) no-repeat;height:600px;padding:138px 130px 0 130px;}
-.m03 .container .mockup figure .portfolio02 {height:360px;border-radius:10px;overflow:hidden;}
+.m03 .container .mockup figure .portfolio02 {padding-bottom:56.25%;border-radius:10px;overflow:hidden;}
 .m03 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m03 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m03 .txt ul {line-height:1.4;margin-bottom:30px;}
@@ -112,7 +112,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m03 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m03 .container .mockup figure .portfolio02 {height:177px;border-radius:0;overflow:hidden;}
+    .m03 .container .mockup figure .portfolio02 {padding-bottom:56.25%;border-radius:0;overflow:hidden;}
     .m03 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m03 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m03 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
@@ -129,7 +129,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m04 .container .mockup {flex:9;}
 .m04 .container .txt {flex:7;display:flex;align-items: center;}
 .m04 .container .mockup figure {background:url(./assets/img/tv04.png) no-repeat;height:600px;padding:138px 130px 0 130px;}
-.m04 .container .mockup figure .portfolio03 {height:360px;border-radius:10px;overflow:hidden;}
+.m04 .container .mockup figure .portfolio03 {padding-bottom:56.25%;border-radius:10px;overflow:hidden;}
 .m04 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m04 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m04 .txt p a {cursor: pointer;color:darkblue;}
@@ -145,7 +145,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m04 .container .mockup {flex:1;}
     .m04 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m04 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m04 .container .mockup figure .portfolio03 {height:177px;border-radius:0;overflow:hidden;}
+    .m04 .container .mockup figure .portfolio03 {padding-bottom:56.25%;border-radius:0;overflow:hidden;}
     .m04 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m04 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m04 .txt p a {cursor: pointer;color:darkblue;}
@@ -161,7 +161,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m05 .container .mockup {flex:9;}
 .m05 .container .txt {flex:7;order:-1;display:flex;align-items: center;}
 .m05 .container .mockup figure {background:url(./assets/img/tv04.png) no-repeat;height:600px;padding:138px 130px 0 130px;}
-.m05 .container .mockup figure .portfolio04 {height:360px;border-radius:10px;overflow:hidden;}
+.m05 .container .mockup figure .portfolio04 {padding-bottom:56.25%;border-radius:10px;overflow:hidden;}
 .m05 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m05 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m05 .txt ul {line-height:1.4;margin-bottom:30px;}
@@ -178,7 +178,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m05 .container .mockup {flex:1;}
     .m05 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m05 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m05 .container .mockup figure .portfolio04 {height:177px;border-radius:0;overflow:hidden;}
+    .m05 .container .mockup figure .portfolio04 {padding-bottom:56.25%;border-radius:0;overflow:hidden;}
     .m05 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m05 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m05 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
@@ -195,8 +195,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m06 .container .mockup {flex:9;}
 .m06 .container .txt {flex:7;display:flex;align-items: center;}
 .m06 .container .mockup figure {background:url(./assets/img/tv04.png) no-repeat;height:600px;padding:138px 130px 0 130px;}
-.m06 .container .mockup figure .web {height:360px;border-radius:10px;overflow:hidden;}
-
+.m06 .container .mockup figure .web {padding-bottom:56.25%;position:relative;border-radius:10px;overflow:hidden;}
+.m06 .container .mockup figure .web iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
 .m06 .txt h3 {font-size:40px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:30px;}
 .m06 .txt p {font-size:14px;font-weight:300;line-height:1.4;margin-bottom:30px;}
 .m06 .txt ul {line-height:1.4;margin-bottom:30px;}
@@ -217,7 +217,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m06 .container .mockup {flex:1;}
     .m06 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m06 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m06 .container .mockup figure .web {height:177px;border-radius:0;overflow:hidden;}
+    .m06 .container .mockup figure .web {padding-bottom:56.25%;border-radius:0;overflow:hidden;}
     .m06 .container .mockup figure iframe {height:177px;}
 
     .m06 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
