@@ -81,8 +81,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m02 .container .mockup {flex:1;}
     .m02 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m02 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m02 .container .mockup figure .portfolio01 {height:200px;border-radius:0;overflow:hidden;}
-    .m02 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m02 .container .mockup figure .portfolio01 {height:177px;border-radius:0;overflow:hidden;}
+    .m02 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m02 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m02 .txt p a {cursor:pointer;color:darkblue;}
     .m02 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
@@ -112,8 +112,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m03 .container .mockup {flex:1;}
     .m03 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m03 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m03 .container .mockup figure .portfolio02 {height:200px;border-radius:0;overflow:hidden;}
-    .m03 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m03 .container .mockup figure .portfolio02 {height:177px;border-radius:0;overflow:hidden;}
+    .m03 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m03 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m03 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m03 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
@@ -145,8 +145,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m04 .container .mockup {flex:1;}
     .m04 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m04 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m04 .container .mockup figure .portfolio03 {height:200px;border-radius:0;overflow:hidden;}
-    .m04 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m04 .container .mockup figure .portfolio03 {height:177px;border-radius:0;overflow:hidden;}
+    .m04 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m04 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m04 .txt p a {cursor: pointer;color:darkblue;}
     .m04 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
@@ -178,8 +178,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m05 .container .mockup {flex:1;}
     .m05 .container .txt {flex:1;order:2;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m05 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m05 .container .mockup figure .portfolio04 {height:200px;border-radius:0;overflow:hidden;}
-    .m05 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m05 .container .mockup figure .portfolio04 {height:177px;border-radius:0;overflow:hidden;}
+    .m05 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m05 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m05 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m05 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
@@ -217,10 +217,10 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m06 .container .mockup {flex:1;}
     .m06 .container .txt {flex:1;display:flex;align-items: center;padding:30px 30px 0 30px;}
     .m06 .container .mockup figure {background:none;height:auto;padding:30px 30px 0 30px;}
-    .m06 .container .mockup figure .web {height:198px;border-radius:0;overflow:hidden;}
-    .m06 .container .mockup figure iframe {height:198px;}
+    .m06 .container .mockup figure .web {height:177px;border-radius:0;overflow:hidden;}
+    .m06 .container .mockup figure iframe {height:177px;}
 
-    .m06 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m06 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m06 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m06 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m06 .txt i {font-size:30px;color:#fff;background:#333;padding:5px;border-radius:50%;margin-right:12px;}
@@ -262,7 +262,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg_02.png);}
     .m07 .photo_slider {width:auto;margin:0 0;}
     .m07 .photo_slider figure {text-align:center;padding:0 30px 0 30px;}
-    .m07 .photo_slider figure iframe {width:354px;height:198px;}
+    .m07 .photo_slider figure iframe {width:315px;height:177px;}
 
     
     /* .m08 .slick-dots {display:flex;justify-content:center;margin-top:30px;}
@@ -314,7 +314,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m08 .container .mockup figure .web {height:220px;overflow:hidden;border-radius:10px;border:5px solid #ddd;}
     .m08 .container .mockup figure .web img {width:100%;position:relative;transform:translateY(0);transition:none;}
     .m08 .container .mockup figure .web:hover img {transform:translateY(0);}
-    .m08 .txt h3 {font-size:20px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
+    .m08 .txt h3 {font-size:18px;font-family: 'Gowun Dodum', sans-serif;margin-bottom:20px;}
     .m08 .txt p {font-size:12px;font-weight:300;line-height:1.4;margin-bottom:20px;}
     .m08 .txt ul {font-size:12px;line-height:1.4;margin-bottom:30px;}
     .m08 .txt i {font-size:30px;color:#fff;background:#333;padding:10px;border-radius:10px;margin-right:15px;}
@@ -344,7 +344,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m09 .container figure {width:150px;border-radius:50%;overflow:hidden;border:3px solid #372853;margin:30px auto;}
     .m09 .container figure img {width:100%;cursor:pointer;}
     .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
-    .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
+    .m09 .container p {font-size:14px;font-weight:100;line-height:1.6;}
     .m09 .container i {padding:0 5px 0 0;}
 }
 
@@ -363,14 +363,15 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 #full .b_profile p strong {font-size:14px;font-weight:700;}
 
 #full .b_profile li {line-height:30px;}
+#full .b_profile li:hover {color:rgb(189, 131, 236);}
 
 #full .b_profile li:before {content:"\e9b2";font-family: xeicon!important;margin-right:10px;transition:0.3s;}
-#full .b_profile li:hover:before {content:"\e9b1";font-family: xeicon!important;margin-right:20px;}
+#full .b_profile li:hover:before {content:"\e9b1";font-family: xeicon!important;margin-right:20px;color:rgb(189, 131, 236);}
 
 
 
 #full .b_profile li:after {content:"click";margin-left:30px;opacity:0;font-size:12px;color:#999;transition:0.3s;}
-#full .b_profile li:hover:after {opacity:1;}
+#full .b_profile li:hover:after {opacity:1;color:rgb(189, 131, 236);}
 
 
 
@@ -381,14 +382,14 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 
 @media (max-width:768px) {
     #full {position:fixed;top:0;left:0;width:100%;height:0;overflow:hidden;background:#f7f7f7 url(./assets/img/bg_01.png);transition:0.3s;z-index:1000;}
-    #full .container {display:flex;flex-direction:column;width:auto;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:100%;}
+    #full .container {display:flex;flex-direction:column;width:auto;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:100%;padding-top:10px;}
     
     #full .container>* {padding:0 30px;}
-    #full .container img {width:120px;border-radius:50%;border:3px solid #372853;margin-bottom:15px;}
+    #full .container img {width:120px;border-radius:50%;border:3px solid #372853;margin-bottom:20px;}
     #full .b_profile {display:flex;align-items:center;}
     
-    #full .b_profile h2 {font-size:36px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
-    #full .b_profile p {font-size:12px;font-weight:100;line-height:1.4;margin-bottom:10px;}
+    #full .b_profile h2 {font-size:36px;font-weight:300;margin-bottom:25px;font-family: 'Allison', cursive;}
+    #full .b_profile p {font-size:12px;font-weight:100;line-height:1.6;margin-bottom:0;}
     #full .b_profile p strong {font-size:12px;font-weight:700;}
     
     #full .b_profile li {font-size:12px;line-height:20px;transition:0.3s;}
@@ -400,7 +401,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     
     #full .b_profile li:after {content:"click";margin-left:30px;opacity:0;font-size:12px;color:#999;transition:0.3s;}
     #full .b_profile li:hover:after {opacity:1;}
-    
+    #full .b_profile ul {display:none;}
     
     
     #full>i {position:absolute;top:60px;right:60px;font-size:30px;cursor:pointer;}
