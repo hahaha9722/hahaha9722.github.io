@@ -238,6 +238,8 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m07 {position: relative;background:#f7f7f7 url(./assets/img/bg_02.png);}
 .m07 .photo_slider {width:1400px;margin:0 auto;}
 .m07 .photo_slider figure {padding:0 15px;}
+.m07 .photo_slider figure .web {position:relative;padding-bottom:56.25%;}
+.m07 .photo_slider figure .web iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
 .m07 .photo_slider img {width:100%;border-radius:50px;}
 
 /* .m08 .slick-dots {display:flex;justify-content:center;margin-top:30px;}
