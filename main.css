@@ -338,6 +338,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
 .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
 .m09 .container p {font-size:14px;font-weight:100;line-height:1.4;}
 .m09 .container i {padding:0 10px 0 0;}
+.m09 .container a {font-size:13px;font-weight:700;}
 
 
 @media (max-width:768px) {
@@ -348,6 +349,7 @@ body {font-family: 'Open Sans', 'Noto Sans KR', 'Gowun Batang', 'Gowun Dodum' sa
     .m09 .container h2 {font-size:50px;font-weight:300;margin-bottom:20px;font-family: 'Allison', cursive;}
     .m09 .container p {font-size:14px;font-weight:100;line-height:1.6;}
     .m09 .container i {padding:0 5px 0 0;}
+    .m09 .container a {font-size:13px;font-weight:700;}
 }
 
 
